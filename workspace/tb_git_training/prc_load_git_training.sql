@@ -1,1 +1,1 @@
-SELECT * FROM GIT
+SELECT * FROM GIT WHERE branch = 'git'
